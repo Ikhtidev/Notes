@@ -2,6 +2,7 @@
 An application for storing notes
 
 # Screenshots
+<img src="https://i.pinimg.com/originals/cf/cd/ca/cfcdca2f62b8c4dcab497b0faa9b2479.jpg" width="48" height="250">
 ![Screenshot 1](https://i.pinimg.com/originals/cf/cd/ca/cfcdca2f62b8c4dcab497b0faa9b2479.jpg  =250x250)
 ![Screenshot 1](https://i.pinimg.com/originals/f2/b7/ba/f2b7bac5ceef4d2f921452b2764319a0.jpg  =250x250)
 ![Screenshot 1](https://i.pinimg.com/originals/d1/cb/47/d1cb475f2c5502eab15e31ce2cbbfac0.jpg  =250x250)
