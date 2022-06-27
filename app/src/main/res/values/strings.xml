@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mening qaydlarim</string>
+    <string name="edit_note">Qaydni o\'zgartirish</string>
+    <string name="create_note">Qayd yaratish</string>
+    <string name="loading">Yuklanmoqda</string>
+    <string name="note_name">Nomi</string>
+    <string name="start_typing">Yozishni boshlang</string>
+    <string name="notes_is_empty">Qaydlar hali kiritilmagan</string>
+    <string name="delete_note">Qaydni o\'chirish</string>
+    <string name="is_delete_note">Ushbu qayd o\'chirilsinmi?</string>
+    <string name="delete">O\'chirish</string>
+    <string name="cancel">Bekor qilish</string>
+
+    <string name="tag">TAG</string>
+    <string name="exception_empty_field_create">Bo\'sh holda qaydlarni yarata olmaysiz!</string>
+    <string name="exception_empty_field_save">Bo\'sh holda qaydlarni saqlay olmaysiz!</string>
+    <string name="note_unchanged">Qayd o\'zgartirilmagan</string>
+    <string name="note_succesfully_changed">Qayd muvaffaqiyatli o\'zgartirildi!</string>
+    <string name="date_format">HH:mm,dd.MM.yyyy</string>
+    <string name="note_successfully_create">Qayd muvaffaqiyatli yaratildi!</string>
+
+    <string name="id">id</string>
+    <string name="title">title</string>
+    <string name="text">text</string>
+    <string name="updatedAt">updatedAt</string>
+    <string name="deleted">qaydi o\'chirildi</string>
+</resources>
