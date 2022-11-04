@@ -1,3 +1,0 @@
-password: ikhti12345
-alias: key0
-FirstName: Ikhtiyor
